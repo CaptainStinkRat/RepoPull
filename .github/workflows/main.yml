@@ -1,0 +1,9 @@
+- name: Python Safety Check
+  # You may pin to the exact commit or the version.
+  # uses: aufdenpunkt/python-safety-check@d5468d88a766a647545a256f118b216833f91088
+  uses: aufdenpunkt/python-safety-check@v1.0.5
+  with:
+    # Optional Safety script parameters. (e.g. --ignore=1234 or -i 1234)
+    safety_args: # optional, default is 
+    # Set true to scan required python packages without installing them.
+    scan_requirements_file_only: # optional, default is false
