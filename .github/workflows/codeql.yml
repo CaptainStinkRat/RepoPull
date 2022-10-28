@@ -72,3 +72,9 @@ jobs:
       uses: github/codeql-action/analyze@v2
       with:
         category: "/language:${{matrix.language}}"
+        
+    - name: Python Safety Check
+      uses: aufdenpunkt/python-safety-check@v1.0.5
+      #with:
+        #safety_args: # optional, default is 
+        #scan_requirements_file_only: # optional, default is false
