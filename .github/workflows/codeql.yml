@@ -72,3 +72,8 @@ jobs:
       uses: github/codeql-action/analyze@v2
       with:
         category: "/language:${{matrix.language}}"
+        
+    - name: Security vulnerabilities scan
+      uses: aufdenpunkt/python-safety-check@master
+      with:
+        scan_requirements_file_only: 'true'
