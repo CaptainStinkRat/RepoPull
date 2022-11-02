@@ -1,0 +1,6 @@
+webbrowser
+tkinter
+random
+math
+PyPDF2
+time
