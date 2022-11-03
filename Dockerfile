@@ -1,5 +1,3 @@
-//This is a Kasm image for an env that has Snyk CLI tool
-//Future update for pip ENV
 
 FROM kasmweb/core-ubuntu-focal:1.11.0
 USER root
