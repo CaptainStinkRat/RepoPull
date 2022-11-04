@@ -12,3 +12,8 @@ argparse
 os 
 sys
 
+
+
+matplotlib.pyplot
+matplotlib 
+animation
