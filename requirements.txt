@@ -7,3 +7,8 @@ bs4
 requests
 BeautifulSoup
 pandas
+
+argparse
+os 
+sys
+
