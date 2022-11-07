@@ -17,3 +17,7 @@ sys
 matplotlib.pyplot
 matplotlib 
 animation
+
+
+xlwings
+pywin32
