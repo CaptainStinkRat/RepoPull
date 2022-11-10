@@ -22,3 +22,4 @@ animation
 xlwings
 pywin32==305
 
+ipykernel
