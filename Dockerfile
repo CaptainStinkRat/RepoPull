@@ -1,4 +1,3 @@
-
 FROM kasmweb/core-ubuntu-focal:1.11.0
 USER root
 
