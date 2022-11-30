@@ -3,6 +3,8 @@ PyPDF2
 matplotlib
 numpy==1.22.2
 
+pillow==1.0
+
 bs4
 requests
 BeautifulSoup
