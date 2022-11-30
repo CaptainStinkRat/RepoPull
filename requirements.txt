@@ -1,7 +1,7 @@
 
 PyPDF2
 matplotlib
-numpy==1.22.2
+numpy==1.9
 
 pillow==1.0
 
