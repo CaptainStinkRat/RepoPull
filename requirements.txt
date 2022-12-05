@@ -26,3 +26,6 @@ pywin32==305
 
 ipykernel
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+
+
+xlsxwriter
