@@ -2,3 +2,4 @@ pyinstaller
 
 
 jupyterlab
+vpython
