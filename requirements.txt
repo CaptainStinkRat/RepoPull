@@ -3,3 +3,6 @@ pyinstaller
 
 jupyterlab
 vpython
+
+PyGithub
+requests
